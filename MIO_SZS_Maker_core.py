@@ -367,8 +367,8 @@ class MIO_SZS_Task(threading.Thread):
                         mblyt = myBrlyt(mySzsFile.extractedDirPath + "/" + bp)
                         mblyt.createPicturePane("mii_%08x" % (miiId), tmpTplPath)
                         mblyt.save()
-                if self.isIconDelete:
-                    mySzsFile.deleteUnusedTpls()
+                #if self.isIconDelete:
+                #    mySzsFile.deleteUnusedTpls()
                 self.curProcess = "compressing %s..." % (os.path.basename(szsFile))
                 mySzsFile.save(destSzsDir + "/" + os.path.basename(mySzsFile.srcPath))
             System.delFile(tmpTplPath)
