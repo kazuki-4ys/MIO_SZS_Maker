@@ -8,7 +8,7 @@
 
 このアプリ本体を[ここ](https://github.com/kazuki-4ys/MIO_SZS_Maker/releases)からダウンロードする。
 
-1. [テンプレートのszs](https://cdn.discordapp.com/attachments/1011913296498143293/1159746815734841424/Mii_Icon_Override_template_szs_v1.0.zip)をダウンロードして解凍する
+1. [テンプレートのszs](https://dl.dropboxusercontent.com/scl/fi/cmzjpexdhxjdhho7a6kja/Mii_Icon_Override_template_szs_v1.0.1.zip?rlkey=qcrehjkyfkqep8009182f69h8)をダウンロードして解凍する
 
 1. MIO_SZS_Makerを起動して、`ベースになるszsのフォルダ`に解凍してできたszsファイルと`setting.json`が入ったフォルダを選択。
 
